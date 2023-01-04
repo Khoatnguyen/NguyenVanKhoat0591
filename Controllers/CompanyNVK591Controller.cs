@@ -10,11 +10,11 @@ using NguyenVanKhoat0591.Models;
 
 namespace NguyenVanKhoat0591.Controllers
 {
-    public class CompanyNVK591 : Controller
+    public class CompanyNVK591Controller : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public CompanyNVK591(ApplicationDbContext context)
+        public CompanyNVK591Controller(ApplicationDbContext context)
         {
             _context = context;
         }
