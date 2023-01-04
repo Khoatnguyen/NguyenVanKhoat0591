@@ -16565,6 +16565,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NguyenVanKhoat0591\\Views\\CompanyNVK591\\Details.cshtml",
+      "TargetPath": "Views\\CompanyNVK591\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NguyenVanKhoat0591\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -16572,6 +16577,16 @@
     {
       "FilePath": "c:\\NguyenVanKhoat0591\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenVanKhoat0591\\Views\\CompanyNVK591\\Edit.cshtml",
+      "TargetPath": "Views\\CompanyNVK591\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenVanKhoat0591\\Views\\CompanyNVK591\\Index.cshtml",
+      "TargetPath": "Views\\CompanyNVK591\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16585,8 +16600,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\NguyenVanKhoat0591\\Views\\CompanyNVK591\\Delete.cshtml",
+      "TargetPath": "Views\\CompanyNVK591\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\NguyenVanKhoat0591\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\NguyenVanKhoat0591\\Views\\CompanyNVK591\\Create.cshtml",
+      "TargetPath": "Views\\CompanyNVK591\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
